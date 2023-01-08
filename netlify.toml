@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/events-home-page.html"
+status = 200
